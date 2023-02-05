@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+/* 1. Se dispone de una lista de 10 grupos de números enteros separados entre ellos
+      por ceros. Se pide determinar e informar:
+         a. El número de grupo con mayor porcentaje de números impares
+            positivos respecto al total de números que forman el grupo. */
+
+using System;
 
 namespace guia6_1_a
 {

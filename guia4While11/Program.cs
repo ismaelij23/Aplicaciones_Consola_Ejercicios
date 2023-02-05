@@ -1,4 +1,9 @@
-﻿using System;
+﻿
+/* 11. Hacer un programa para ingresar una lista de números que corta cuando se
+       ingresa un cero y luego mostrar: la cantidad de números primos, la cantidad de
+       números pares, la cantidad de positivos y la cantidad de negativos. */
+
+using System;
 
 namespace guia4While11
 {

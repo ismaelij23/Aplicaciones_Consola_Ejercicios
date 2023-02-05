@@ -1,4 +1,11 @@
-﻿using System;
+﻿
+/*  8. Hacer un programa que solicite una lista de números que corta cuando se
+       ingresa un cero y luego mostrar por pantalla el menor y el segundo menor.
+    
+    9. Realizar el nuevamente el ejercicio 8 pero ahora debe devolver además la
+       posición en la que fue encontrado cada uno de los mínimos. */
+
+using System;
 
 namespace guia4While8_9
 {
